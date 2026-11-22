@@ -56,7 +56,7 @@ The solver prints the resulting click positions using the following notation:
 | --- | --- |
 |`X` |  Pillar specified in the input problem |
 |`O` | Cell that should be clicked |
-|`-` | Cell that should not be pouched |
+|`-` | Cell that should not be touched |
 
 ## Benchmark
 
